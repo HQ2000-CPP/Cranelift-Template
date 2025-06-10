@@ -5,4 +5,4 @@ Simple [Cargo-Generate](https://cargo-generate.github.io/cargo-generate/index.ht
 ## Usage
 If you want to use this template, you can use its [Link](https://github.com/HQ2000-CPP/Cranelift-Template/) to add it in the Project creation dialogue.
 ## Credits
-Though it's probably not the actual source, I used the preconfigured [wasm-pack template]([)](https://github.com/intellij-rust/wasm-pack-template/). You are free to use this yourself (if you trust me). I **cannot** guarantee that there aren't any errors here. If you find one, fee free to open an issue (or do it yourself).
+Though it's probably not the actual source, I used the preconfigured [wasm-pack template](https://github.com/intellij-rust/wasm-pack-template/). You are free to use this yourself (if you trust me). I **cannot** guarantee that there aren't any errors here. If you find one, fee free to open an issue (or do it yourself).
